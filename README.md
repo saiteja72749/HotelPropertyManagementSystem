@@ -16,21 +16,8 @@ A Java Swing-based application for managing hotel operations, including room boo
 
 To run this project, you'll need Java Development Kit (JDK) installed on your machine. Follow these steps to get the application up and running:
 
-1. **Clone the Repository**
-   ```bash
-   git clone github.com/saiteja72749/HotelPropertyManagementSystem
-   cd Hotel-Management-System
-   ```
-
-2. **Compile the Code**
-   ```bash
-   javac -d bin src/*.java
-   ```
-
-3. **Run the Application**
-   ```bash
-   java -cp bin MainFrame
-   ```
+1. Clone the repository.
+2. Compile and run the Java application.
 
 ## Directory Structure
 
