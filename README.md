@@ -18,7 +18,7 @@ To run this project, you'll need Java Development Kit (JDK) installed on your ma
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone github.com/saiteja72749/HotelPropertyManagementSystem
    cd Hotel-Management-System
    ```
 
